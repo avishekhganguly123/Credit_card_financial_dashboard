@@ -24,21 +24,21 @@ These objectives provide a clear and concise roadmap for the credit card analysi
 # Methodology
 This project commenced with the establishment of a robust data foundation by creating dedicated tables within a MySQL database to store transaction and customer data. Raw data was then seamlessly imported from CSV files into these tables. A direct connection was established between the MySQL database and Power BI, enabling real-time data access and facilitating dynamic data visualization and analysis. Subsequently, rigorous data cleaning and transformation processes were undertaken, including handling missing values, correcting inconsistencies, and creating new calculated columns using DAX queries. Finally, key performance indicators (KPIs) relevant to the credit card business were defined and developed to provide a quantitative measure of business performance and enable effective monitoring and tracking of critical success factors.
 # Building Dashboards
-Key Features:
 ### Dashboard 1 : Credit Card Financial Report
-• KPI Monitoring: Tracks essential KPIs related to credit card usage and financial performance.
-• Revenue Analysis by Timeframe: Quarterly, monthly, and weekly revenue breakdowns for detailed trend analysis.
-• Revenue Analysis by Demographics: Segmentation of revenue based on Age groups for targeted insights.
-• Revenue Analysis by Expenditure Type: Provides insights into revenue share by expenditure type, allowing understanding of spending habits and preferences.
-• Revenue Analysis by Card Attributes: Breakdown of revenue by card category and card use type to understand usage patterns.
+key features:
+• KPI Monitoring: Tracks essential KPIs related to credit card usage and financial performance. </br>
+• Revenue Analysis by Timeframe: Quarterly, monthly, and weekly revenue breakdowns for detailed trend analysis. </br>
+• Revenue Analysis by Demographics: Segmentation of revenue based on Age groups for targeted insights. </br>
+• Revenue Analysis by Expenditure Type: Provides insights into revenue share by expenditure type, allowing understanding of spending habits and preferences. </br>
+• Revenue Analysis by Card Attributes: Breakdown of revenue by card category and card use type to understand usage patterns. </br>
 • Interactive Filters: Weekly date filters, card category filters, gender filters etc for customized analysis.
 ### Dashboard 2 : Credit Card Customer Report
 Key Features:
-• KPI Monitoring: Tracks and displays key performance indicators (KPIs) related to credit card usage and revenue.
-• Week-on-Week Revenue Change: Provides a comparative analysis of revenue changes on a weekly basis, allowing for trend identification and forecasting.
-• Demographic Impact Analysis: Analyzes the impact of revenue on customer demographics based on gender, including educational level, job type, marital status, and income group, facilitating targeted marketing strategies.
-• Top 5 States Contribution: Identifies the top five states contributing to overall revenue, enabling focused marketing efforts and regional strategy development.
-• Interactive Filters: Includes filters such as weekly dates and card categories, enhancing user experience and allowing for customized data exploration.
+• KPI Monitoring: Tracks and displays key performance indicators (KPIs) related to credit card usage and revenue. </br>
+• Week-on-Week Revenue Change: Provides a comparative analysis of revenue changes on a weekly basis, allowing for trend identification and forecasting. </br>
+• Demographic Impact Analysis: Analyzes the impact of revenue on customer demographics based on gender, including educational level, job type, marital status, and income group, facilitating targeted marketing strategies. </br>
+• Top 5 States Contribution: Identifies the top five states contributing to overall revenue, enabling focused marketing efforts and regional strategy development. </br>
+• Interactive Filters: Includes filters such as weekly dates and card categories, enhancing user experience and allowing for customized data exploration. </br>
 • Tree Maps: Utilizes tree maps for visual representation of data, aiding in the intuitive interpretation of revenue distribution across different categories and demographics.
 # Conclusion
 ### WoW Insights (Week-53)
