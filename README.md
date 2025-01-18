@@ -19,8 +19,8 @@ Perform detailed week-on-week revenue comparisons to identify trends, anomalies,
 Leverage this analysis to proactively respond to market dynamics, capitalize on revenue opportunities, and mitigate potential risks.
 These objectives provide a clear and concise roadmap for the credit card analysis project, focusing on actionable insights that will drive business improvement.
 # Software Used
--MySQL
--PowerBI
+- MySQL
+- PowerBI
 # Methodology
 This project commenced with the establishment of a robust data foundation by creating dedicated tables within a MySQL database to store transaction and customer data. Raw data was then seamlessly imported from CSV files into these tables. A direct connection was established between the MySQL database and Power BI, enabling real-time data access and facilitating dynamic data visualization and analysis. Subsequently, rigorous data cleaning and transformation processes were undertaken, including handling missing values, correcting inconsistencies, and creating new calculated columns using DAX queries. Finally, key performance indicators (KPIs) relevant to the credit card business were defined and developed to provide a quantitative measure of business performance and enable effective monitoring and tracking of critical success factors.
 # Building Dashboards
