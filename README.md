@@ -2,7 +2,7 @@
 This project focuses on developing an interactive and informative weekly dashboard that provides real-time insights into crucial credit card performance metrics and trends. By visualizing key data points, this dashboard will empower stakeholders with the ability to effectively monitor and analyze credit card operations, identify areas for improvement, and make data-driven decisions to optimize business performance.
 # Project objectives
 This project aims to analyze weekly credit card transaction data in conjunction with customer information to:
-Markup:- ## Track Key Performance Indicators (KPIs) ##:
+## Track Key Performance Indicators (KPIs) ##:
 
 Measure and analyze critical metrics such as revenue generated, transaction volume, interest earned, delinquency rates, customer acquisition costs, and customer satisfaction scores.
 Leverage these insights to evaluate overall credit card performance, identify areas for improvement, and make data-driven decisions to boost growth and profitability.
