@@ -44,25 +44,25 @@ Key Features:
 ### WoW Insights (Week-53)
 Strong Growth: Revenue surged 28.8%, driven by a 12.80% increase in active customers. Transaction count rose 3.39%, while transaction amount jumped 35%.
 ### Overview YTD.
-Revenue: $57 million.
-Interest Earned: $8 million.
-Cost-to-Revenue: 1.74%.
-Activation Rate: 57.5%.
-Delinquency Rate: 6.06%.
-Utilization Ratio: 13.47%.
+Revenue: $57 million. </br>
+Interest Earned: $8 million. </br>
+Cost-to-Revenue: 1.74%. </br>
+Activation Rate: 57.5%. </br>
+Delinquency Rate: 6.06%. </br>
+Utilization Ratio: 13.47%. </br>
 Customer Satisfaction: 3.19/5.
 ### Customer Spending & Transaction Patterns
-Age: 40-50 age group is the highest revenue contributor (43.7%).
-Cards: Blue & Silver cards dominate (93% of transactions).
-Method: Swipe is the most popular transaction method (66.9%).
-Categories: Bill payments, entertainment, and fuel are top spending categories.
+Age: 40-50 age group is the highest revenue contributor (43.7%). </br>
+Cards: Blue & Silver cards dominate (93% of transactions). </br>
+Method: Swipe is the most popular transaction method (66.9%). </br>
+Categories: Bill payments, entertainment, and fuel are top spending categories. </br>
 Gender: Male customers contribute more (54.4%).
 ### Customer Demographics
-Top States: Texas, New York, and California account for 68% of transactions.
-Education: Graduate degree holders have higher spending.
-Job: Businessmen contribute significantly (31.3%).
-Income: High-income customers contribute 49% of revenue.
-Marital Status: Married customers contribute the most (50.6%).
+Top States: Texas, New York, and California account for 68% of transactions. </br>
+Education: Graduate degree holders have higher spending. </br>
+Job: Businessmen contribute significantly (31.3%). </br>
+Income: High-income customers contribute 49% of revenue. </br>
+Marital Status: Married customers contribute the most (50.6%). </br>
 Personal Loan: Customers without personal loans contribute 87.42% of revenue.
 
 
