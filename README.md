@@ -32,7 +32,7 @@ key features:
 • Revenue Analysis by Expenditure Type: Provides insights into revenue share by expenditure type, allowing understanding of spending habits and preferences. </br>
 • Revenue Analysis by Card Attributes: Breakdown of revenue by card category and card use type to understand usage patterns. </br>
 • Interactive Filters: Weekly date filters, card category filters, gender filters etc for customized analysis. </br>
-https://github.com/avishekhganguly123/Credit_card_financial_dashboard/blob/main/Credit_card_customer.pdf?raw=true
+<iframe src="https://github.com/avishekhganguly123/Credit_card_financial_dashboard/blob/main/Credit_card_customer.pdf" width="800" height="600"></iframe>
 ### Dashboard 2 : Credit Card Customer Report
 Key Features:
 • KPI Monitoring: Tracks and displays key performance indicators (KPIs) related to credit card usage and revenue. </br>
