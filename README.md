@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ad3137fc-6b75-4903-ba89-6ee6189704b2)# Credit_card_financial_dashboard
+# Credit_card_financial_dashboard
 This project focuses on developing an interactive and informative weekly dashboard that provides real-time insights into crucial credit card performance metrics and trends. By visualizing key data points, this dashboard will empower stakeholders with the ability to effectively monitor and analyze credit card operations, identify areas for improvement, and make data-driven decisions to optimize business performance.
 # Project Objectives
 This project aims to analyze weekly credit card transaction data in conjunction with customer information to:
@@ -32,7 +32,12 @@ key features:
 • Revenue Analysis by Expenditure Type: Provides insights into revenue share by expenditure type, allowing understanding of spending habits and preferences. </br>
 • Revenue Analysis by Card Attributes: Breakdown of revenue by card category and card use type to understand usage patterns. </br>
 • Interactive Filters: Weekly date filters, card category filters, gender filters etc for customized analysis. </br>
+
+
 <iframe src="https://github.com/avishekhganguly123/Credit_card_financial_dashboard/blob/main/Credit_card_customer.pdf" width="800" height="600"></iframe>
+![image](https://github.com/user-attachments/assets/ad3137fc-6b75-4903-ba89-6ee6189704b2)
+
+
 ### Dashboard 2 : Credit Card Customer Report
 Key Features:
 • KPI Monitoring: Tracks and displays key performance indicators (KPIs) related to credit card usage and revenue. </br>
