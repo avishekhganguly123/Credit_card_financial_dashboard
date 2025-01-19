@@ -45,6 +45,11 @@ Key Features:
 • Top 5 States Contribution: Identifies the top five states contributing to overall revenue, enabling focused marketing efforts and regional strategy development. </br>
 • Interactive Filters: Includes filters such as weekly dates and card categories, enhancing user experience and allowing for customized data exploration. </br>
 • Tree Maps: Utilizes tree maps for visual representation of data, aiding in the intuitive interpretation of revenue distribution across different categories and demographics.
+
+
+![Dashboard 2](https://github.com/avishekhganguly123/Credit_card_financial_dashboard/blob/eb1b84a2120c3902c5753ac4157e9239b466b98b/Credit_card_customer_report.png)
+
+
 # Conclusion
 ### WoW Insights (Week-53)
 Strong Growth: Revenue surged 28.8%, driven by a 12.80% increase in active customers. Transaction count rose 3.39%, while transaction amount jumped 35%.
