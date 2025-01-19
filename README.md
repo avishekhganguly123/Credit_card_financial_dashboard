@@ -34,7 +34,7 @@ key features:
 • Interactive Filters: Weekly date filters, card category filters, gender filters etc for customized analysis. </br>
 
 
-<iframe src="https://github.com/avishekhganguly123/Credit_card_financial_dashboard/blob/main/Credit_card_customer.pdf" width="800" height="600"></iframe>
+<iframe src="https://github.com/avishekhganguly123/Credit_card_financial_dashboard/blob/main/Credit_card_customer.pdf" width="800" height="600"></iframe> </br>
 ![image](https://github.com/user-attachments/assets/ad3137fc-6b75-4903-ba89-6ee6189704b2)
 
 
